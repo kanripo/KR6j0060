@@ -1,29 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:01.882433
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:08
 #+TITLE: 佛說大悲空智金剛大教王儀軌經
 #+PROPERTY: CBETA_ID T18n0892
 #+PROPERTY: ID KR6j0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 892
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0060_T_003-0594b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
 ¶
-
- 佛說大悲空智金剛大教王儀軌¶
+佛說大悲空智金剛大教王儀軌¶
 經卷第三¶
 ¶
 宋西天三藏銀青光祿大夫試光祿卿¶
 普明慈覺大師法護奉　詔譯¶
 
-11金剛藏菩薩現證儀軌王品
-:PROPERTIES:
-:head: 金剛藏菩薩現證儀軌王品第十一
-:END:
-¶
+* 金剛藏菩薩現證儀軌王品第十一¶
 
 佛告金剛藏言。顰眉顧視名忿怒眼。二目向
 <pb:KR6j0060_T_003-0594c>¶
@@ -98,11 +93,7 @@
 
 唵(引)探探¶
 
-12熾盛拏吉尼所說成就品
-:PROPERTIES:
-:head: 熾盛拏吉尼所說成就品第十二
-:END:
-¶
+* 熾盛拏吉尼所說成就品第十二¶
 
 復次金剛藏言。世尊於諸法海。云何為求成
 <pb:KR6j0060_T_003-0595b>¶
@@ -183,11 +174,7 @@
 部。於是一部復有百萬無數大俱胝部。是勝¶
 喜中得如是部。¶
 
-13說方便品
-:PROPERTIES:
-:head: 說方便品第十三
-:END:
-¶
+* 說方便品第十三¶
 
 復次宣說一切金剛儀軌瑜儗尼方便灌頂¶
 戒。謂分別剎那飲食喜等。諸佛如來安住鑁¶
@@ -266,8 +253,8 @@
 　又此所生火
 　非假亦非實¶
 　是故諸法中
-　應如是作意
+　應如是作意」
 #+END_VERSE
-」¶
+¶
 佛說大悲空智金剛大教王儀軌經卷第三¶
 
